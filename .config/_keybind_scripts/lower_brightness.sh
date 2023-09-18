@@ -1,0 +1,1 @@
+brightnessctl sset 5%-
